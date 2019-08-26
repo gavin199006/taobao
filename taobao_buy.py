@@ -15,8 +15,8 @@ import time
 
 class TaoBaoTimeBuy():
     def __init__(self):
-        self.username = '13693391722'
-        self.password = 'zk199006.,'
+        self.username = '1369339***'
+        self.password = 'zk****'
         self.options = webdriver.ChromeOptions()
         self.options.add_experimental_option('excludeSwitches', ['enable-automation'])
         # self.options.add_experimental_option("prefs", {"profile.managed_default_content_settings.images": 2})
